@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+/* Styles go here */
+
+thead {color:green;}
+tbody {color:blue;}
+tfoot {color:red;}
+
+table, th, td {
+  border: 1px solid black;
+}
+td, th{
+  padding: 5px;
+}
